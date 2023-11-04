@@ -1,0 +1,10 @@
+{
+  "provider": "",
+  "contractAddress": "0x591CAdFaF2F5dBBD09580C8b74A4770A9255bF28",
+  "fromBlock": "4020767",
+  "toBlock": "17818232",
+  "blocksPerBatch": "2000",
+  "delay": "500",
+  "format": "both",
+  "checkIfContract": "yes"
+}
